@@ -26,8 +26,8 @@ public class Elephant {
 		System.out.println("Elephant has " +e.eyes + "  eyes");
 		System.out.println("Elephant has " +e.tail + "  tail");
 		System.out.println("Elephant has " +e.leg + "  legs");
-		
+		System.out.println("Name of Elephant is: " +e.name);
 
 	}
-
+      
 }
